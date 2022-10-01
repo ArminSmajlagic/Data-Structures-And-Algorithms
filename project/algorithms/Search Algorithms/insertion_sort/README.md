@@ -23,6 +23,8 @@ The insertion sort algorithm scans a1 to an, inserting each element ak into its 
 
 This algorithm takes n comparisons and is useful only when n is small. 
 
+![bubble](https://user-images.githubusercontent.com/45321513/193411761-0fbd7bfe-6f00-4519-9b10-ab6208811126.jpg)
+
 ## Time colpexity
 
 The time complexity of insertion sort is O(n2)
