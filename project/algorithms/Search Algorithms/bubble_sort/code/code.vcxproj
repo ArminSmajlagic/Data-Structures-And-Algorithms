@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{87aabf1a-3601-47b4-a74c-006e89cbb707}</ProjectGuid>
-    <RootNamespace>bubblesort</RootNamespace>
+    <ProjectGuid>{6ca6de23-956f-437a-829b-a2bf1a1e25fd}</ProjectGuid>
+    <RootNamespace>code</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="bubble_sort.cpp" />
+    <ClCompile Include="code.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
