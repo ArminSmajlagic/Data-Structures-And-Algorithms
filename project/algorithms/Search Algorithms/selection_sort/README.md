@@ -25,6 +25,8 @@ Even tho that is very simple it grants slightly faster results comparing to bubb
 
 This algorithm is consisted of two distinct operations, finding the smallest element and positioning it in the right slot. 
 
+![bubble](https://user-images.githubusercontent.com/45321513/193411714-47d4389a-6334-4042-bb7d-a7ff0d11e596.jpg)
+
 ## Time colpexity
 
 The time complexity of insertion sort is O(n2)
