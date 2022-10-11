@@ -31,6 +31,9 @@ Data structures are clasified into two groupes :
 - Trees
 - Graphs
 - Matrices
+- Hash maps
+- Heaps
+
 
 
 

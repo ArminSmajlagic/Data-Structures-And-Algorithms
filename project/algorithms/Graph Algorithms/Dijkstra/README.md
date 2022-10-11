@@ -1,4 +1,4 @@
-# Graph Algorithams
+# Dijsktr algorithm
 
 ### Defintion
 

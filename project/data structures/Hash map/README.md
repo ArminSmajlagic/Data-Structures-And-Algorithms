@@ -1,4 +1,4 @@
-# Heap
+# Hash Map
 
 ### Definition
 

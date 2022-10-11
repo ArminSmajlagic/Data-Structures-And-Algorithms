@@ -2,8 +2,9 @@
 
 This project is combination of popular and well used data structures and algorithams implemented in c++.
 
-Along with its implementation this project contains the time & space complexity of algorithams, 
-visual representation of its behaviour and sligh description.
+Aside from implementation this project contains description, step by step explanantion of implementation, visual ilustration of algorithams, time and space complexity analysis etc
+
+Enjoy :D
 
 ## Data Structures
 
@@ -14,6 +15,10 @@ visual representation of its behaviour and sligh description.
 - Linked Lists
 - Dictionaries
 - Graphs
+- Trees
+- Hash maps
+- Matrices
+- Heaps
 
 ## Algorthms 
 
@@ -31,6 +36,3 @@ visual representation of its behaviour and sligh description.
     - Linear Search or Sequential Search  
     - Binary Search
     - Fibonacci Search
-
-- Red–Black Trees and Splay Trees
-- Red–Black Trees and Splay Trees
