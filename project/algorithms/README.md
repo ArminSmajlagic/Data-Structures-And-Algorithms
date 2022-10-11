@@ -7,9 +7,8 @@ However, a problem can be solved in many ways.
 Among them, the best is selected based on the amount of space and execution time it requires. 
 The algorithms are the prior written steps to the implementation of software. 
 Many algorithms may be designed as a solution for a given problem. 
-The algorithm shows the clear path to get the required soft ware solution. 
+The algorithm shows the clear path to get the required software solution. 
 It is a mathematical procedure or notation to represent the solution of a problem. 
-It should be clear and unambiguous. 
 
 ## PROPERTIES OF THE BEST ALGORITHMS
 
@@ -28,7 +27,7 @@ following properties:
  - Security
  - Simplicity
  - User-friendliness
- - Programmer time
+ - Less programming time
 
 ## Space Complexity
 
@@ -79,23 +78,21 @@ check the correctness of the algorithm, execute it for all instances. An algorit
 instances of data, the best, worst and average case complexities can be estimated.
 
 The worst case complexity of an algorithm is when the algorithm takes maximum number of steps on any
-instance of size n. The
-Big oh time complexity can be called as worst case.
+instance of size n. The Big oh time complexity can be called as worst case.
 
 The average case complexity of an algorithm is when the algorithm takes the average number of steps on any
 instance of size n.The Theta time complexity can be called as average case.
 
-Th e best case complexity of an algorithm is when the algorithm takes the minimum number of steps on any
+The best case complexity of an algorithm is when the algorithm takes the minimum number of steps on any
 instance of size n. The Omega time complexity can be called as best case.
 
 ## Types of Algorithams
 
-- Brute Force Algorithms
-- Divide and Conquer Algorithms
-- Dynamic Programming Algorithms
-- Greedy Algorithms
-- Branch and Bound Algorithms
-- Recursive Algorithms
-- Back Tracking Algorithms
-- Randomized Algorithms
-- Hill Climbing Algorithms
+- Brute Force Algorithms (simple solution for a problem)
+- Divide and Conquer Algorithms (divides problem in to more lesser problems then solves them as such)
+- Dynamic Programming Algorithms (optimizes the performance of already found solution to problems )
+- Greedy Algorithms (builds partial solution to a problem then continues to build on that partial solution another partial soultion and so on)
+- Recursive Algorithms (algorithams based on recursion - repetitive call of the same function)
+- Back Tracking Algorithms (trys to find all soltions to a problem if solution turns to be bad we stop building on that soultion and we continue on others)
+- Randomized Algorithms (uses random numbers to decide its further actions)
+- Hashing algorithams (simular to search algorithams but it uses keys to assign postions of data)
