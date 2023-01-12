@@ -25,7 +25,17 @@ Even tho that is very simple it grants slightly faster results comparing to bubb
 
 This algorithm is consisted of two distinct operations, finding the smallest element and positioning it in the right slot. 
 
-![bubble](https://user-images.githubusercontent.com/45321513/193411714-47d4389a-6334-4042-bb7d-a7ff0d11e596.jpg)
+### Ilustration 
+
+<p align="center">
+  <img width="60%" src="https://user-images.githubusercontent.com/45321513/193411714-47d4389a-6334-4042-bb7d-a7ff0d11e596.jpg" />
+  <p align="center">Example 1</p>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://user-images.githubusercontent.com/45321513/212156905-9f58ef88-3495-422d-b508-e74096ad7700.png" />
+  <p align="center">Example 2</p>
+</p>
 
 ## Time colpexity
 
