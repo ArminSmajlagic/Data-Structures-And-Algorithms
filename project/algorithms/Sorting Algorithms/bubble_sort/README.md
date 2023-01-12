@@ -29,9 +29,17 @@ that is L={A1,A2,A3,...,An}, where A1≤A2≤A3≤...An.
   - Finally at the n–1th comparison, compare A1 and A2 and interchange so that A1<A2. After the n–1
     comparisons the list will be in the sorted order.
 
-### Example
+### Illustration
 
-![bubble](https://user-images.githubusercontent.com/45321513/193410093-fa8f6fa1-b687-4b4f-880a-0c0cb1e960c6.jpg)
+<p align="center">
+  <img width="70%" src="https://user-images.githubusercontent.com/45321513/193410093-fa8f6fa1-b687-4b4f-880a-0c0cb1e960c6.jpg" />
+  <p align="center">Example 2</p>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://user-images.githubusercontent.com/45321513/212157340-d3a6a740-12ce-421c-9ba6-d2d6ef9a338f.png" />
+  <p align="center">Example 2</p>
+</p>
 
 ### Time complexity
 
