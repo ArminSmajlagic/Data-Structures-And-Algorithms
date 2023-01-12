@@ -27,7 +27,17 @@ Finaly when we reach the last step, the array consists of only one column.
 
 <p align="center">
   <img width="70%" src="https://user-images.githubusercontent.com/45321513/212158481-e8d1cb8b-7e38-42c1-9c58-d808209eb9de.png" />
-  <p align="center">Example 1</p>
+  <p align="center">Example 1; Part 1</p>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://user-images.githubusercontent.com/45321513/212159088-a145b10f-9c04-45ed-96f0-c8807e32dd80.png" />
+  <p align="center">Example 1; Part 2</p>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://user-images.githubusercontent.com/45321513/212159249-a2e5c31f-ad2d-4050-8c6e-d5fe9452ddc0.png" />
+  <p align="center">Example 1; Part 3</p>
 </p>
 
 ## Time colpexity
