@@ -10,9 +10,11 @@ Here the given list to be sorted is divided into two sublists of approximately e
 recursively and all the sorted sublists are merged into a single list which is the required sorted list
 
 
-### Example 
+### Ilustration 
 
-slika
+<p align="center">
+  <img width="60%" src="https://user-images.githubusercontent.com/45321513/212156133-bb38fcaf-1597-40a8-981c-f5dcd47f978d.png" />
+</p>
 
 ### Time complexity
 
