@@ -22,7 +22,7 @@ Enjoy :D
 
 ## Algorthms 
 
-- Searching and Sorting Algorithams
+- Searching, Sorting & Graph Algorithams
   - Sorting
     - Bubble Sort 
     - Insertion Sort
@@ -36,3 +36,9 @@ Enjoy :D
     - Linear Search or Sequential Search  
     - Binary Search
     - Fibonacci Search
+  - Graph
+    - Breadth-First Search (BFS)
+    - Depth-First Search (DFS)
+    - Kruskal
+    - Prim
+    - Dijkstra
