@@ -23,7 +23,17 @@ The insertion sort algorithm scans a1 to an, inserting each element ak into its 
 
 This algorithm takes n comparisons and is useful only when n is small. 
 
-![bubble](https://user-images.githubusercontent.com/45321513/193411761-0fbd7bfe-6f00-4519-9b10-ab6208811126.jpg)
+### Ilustration 
+
+<p align="center">
+  <img width="60%" src="https://user-images.githubusercontent.com/45321513/193411761-0fbd7bfe-6f00-4519-9b10-ab6208811126.jpg" />
+  <p align="center">Example 1</p>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://user-images.githubusercontent.com/45321513/212157494-3db5204a-a6ea-45c2-a8d4-bfbca98c6102.png" />
+  <p align="center">Example 2</p>
+</p>
 
 ## Time colpexity
 
