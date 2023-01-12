@@ -25,10 +25,12 @@ Let L be an unordered list with elements {A1, A2, …, An}
 - Step 3
   - If i<j the swap Ai and Aj
 
-### Example 
+### Illustration 
 
-slika
-
+<p align="center">
+  <img width="70%" src="https://user-images.githubusercontent.com/45321513/212157961-bc66ab8c-597f-4fba-9291-d8679f9d2afb.png" />
+  <p align="center">Example 2</p>
+</p>
 
 ### Time Complexity
 
