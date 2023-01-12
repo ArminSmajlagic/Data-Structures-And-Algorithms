@@ -17,7 +17,12 @@ We start sorting the data sequence by last digits first then we continue from th
 - Step 4
   - Repeat step 2 and 3 until we sort the first digit of each number
 
-Slika
+### Illustration 
+
+<p align="center">
+  <img width="70%" src="https://user-images.githubusercontent.com/45321513/212158269-139be36e-8e8f-43d5-b5fb-e38bac3a7b15.png" />
+  <p align="center">Example 2</p>
+</p>
 
 ## Time colpexity
 
