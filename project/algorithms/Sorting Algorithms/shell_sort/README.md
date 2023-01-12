@@ -23,7 +23,12 @@ Finaly when we reach the last step, the array consists of only one column.
 - Step 4
   - Repeat steps 1,2 and 3 until interval becomes 1 and we perform insertion sort on whole partialy sorted list
 
-Slika
+### Illustration 
+
+<p align="center">
+  <img width="70%" src="https://user-images.githubusercontent.com/45321513/212158481-e8d1cb8b-7e38-42c1-9c58-d808209eb9de.png" />
+  <p align="center">Example 1</p>
+</p>
 
 ## Time colpexity
 
