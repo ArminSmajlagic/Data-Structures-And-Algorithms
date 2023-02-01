@@ -24,15 +24,22 @@ Data structures are clasified into two groupes :
 
 ### Listing of data structures
 
-- Arrays 
-- Lists
-- Queues
-- Stacks
+## Linear:
+
+ - Arrays 
+ - Lists
+ - Queues
+ - Stacks
+ 
+ ## Non-Linear:
 - Trees
 - Graphs
 - Matrices
-- Hash maps
 - Heaps
+
+## Both:
+- Hash maps
+
 
 
 
